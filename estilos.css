@@ -1,0 +1,10 @@
+.produto {
+    background-color: aqua;
+}
+.descricao-produto{
+    color: crimson;
+}
+.produto span {
+    color: darkmagenta;
+    font-size: 20px;
+}
